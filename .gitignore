@@ -1,0 +1,43 @@
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.VC.opendb
+*.VC.db
+*.db
+*.db-shm
+*.db-wal
+*.opensdf
+
+# Build results
+.vs/
+[Aa]utoPCH/
+
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.ipch
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.sdf
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.log
+*.scc
+
+#Mac OS X
+.DS_Store
